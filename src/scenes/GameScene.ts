@@ -51,7 +51,7 @@ export class GameScene extends Scene {
     this._cardDealer = new CardDealer(this);
 
     this._timer = new Timer(this, {
-      maxTime: 20,
+      maxTime: 40,
       x: 600,
       y: 10,
     });
