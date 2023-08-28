@@ -13,6 +13,6 @@ body {
 canvas {
   margin: 0;
   padding: 0;
-  width: 1280px;
-  height: 720px;
+  width: auto;
+  height: 100%;
 }

@@ -56,16 +56,16 @@ export class CardDealer {
     const cardPositions: CardPosition[] = [];
 
     // Задаем размеры экрана
-    let screenWidth = gameConfig.screenWidth;
-    let screenHeight = gameConfig.screenHeight;
+    const screenWidth = gameConfig.screenWidth;
+    const screenHeight = gameConfig.screenHeight;
 
     const cardTexture = this._scene.textures.get("card").getSourceImage();
 
     // Определяем ширину и высоту карты
-    let cardWidth = cardTexture.width;
-    let cardHeight = cardTexture.height;
+    const cardWidth = cardTexture.width;
+    const cardHeight = cardTexture.height;
 
-    //  Определим отступ между картами
+
     const cardMargin = 4;
 
     // Определяем количество карт в ряду и количество рядов
