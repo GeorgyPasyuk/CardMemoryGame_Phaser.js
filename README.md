@@ -1,4 +1,5 @@
-# Card Memory Game
+# [Card Memory Game ](https://card-memory-game-phaserjs.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bce8d134-ae70-44cf-a995-1f29b6358883/deploy-status)](https://app.netlify.com/sites/card-memory-game-phaserjs/deploys)
 
 Карточная браузерная игра (memory)
 
